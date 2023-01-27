@@ -53,6 +53,8 @@
 
 enter `npm run test` in command line
 
+[Click Here to watch a video on how to invoke this command](assets/test%20invocation.mp4)
+
   ## [Questions](#table-of-contents)
   
   
