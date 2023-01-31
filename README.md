@@ -29,11 +29,11 @@
   <br>
   <br>
 ### Walk-through Video
-  [Click here to watch a Walkthrough video on how to use this application.](https://raw.githubusercontent.com/Jay-MM/team-profile-generator/main/assets/team-profile-generator-walkthrough.mp4)
+
+[Click here to watch a Walkthrough video on how to use this application](https://raw.githubusercontent.com/Jay-MM/team-profile-generator/main/assets/team-profile-generator-walkthrough.mp4)
   <br>
   <br>
 ### [Screenshots](https://github.com/Jay-MM/team-profile-generator/blob/main/assets/functional-page.png)
-   
 ![generated team](https://github.com/Jay-MM/team-profile-generator/blob/main/assets/functional-page.png?raw=true)
   
   ## [Credits](#table-of-contents)
