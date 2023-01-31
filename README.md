@@ -28,7 +28,8 @@
   <br>
   <br>
   <br>
-### Walk-through Video
+  
+  ## Walk-through Video
 
 [Click here to watch a Walkthrough video on how to use this application](https://raw.githubusercontent.com/Jay-MM/team-profile-generator/main/assets/team-profile-generator-walkthrough.mp4)
   <br>
