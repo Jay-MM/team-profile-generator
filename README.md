@@ -25,11 +25,16 @@
 
   - 1. Enter `npm start` or `node index.js` in command line
   - 2. Answer all prompts until satisfied with the team
-
-    ### [WalkthroughVideo](/assets/team-profile-generator-walkthrough.mp4)
-    [Click here](assets/team-profile-generator-walkthrough.mp4)to watch a Walkthrough video on how to use this application.
-    ### [Screenshots](/assets/functional-page.png)
-  ![generated team](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/gemii/Desktop/projects/team-profile-generator/assets/functional-page.png?version%3D1674791710765)
+  <br>
+  <br>
+  <br>
+### Walk-through Video
+  [Click here to watch a Walkthrough video on how to use this application.](https://raw.githubusercontent.com/Jay-MM/team-profile-generator/main/assets/team-profile-generator-walkthrough.mp4)
+  <br>
+  <br>
+### [Screenshots](https://github.com/Jay-MM/team-profile-generator/blob/main/assets/functional-page.png)
+   
+![generated team](https://github.com/Jay-MM/team-profile-generator/blob/main/assets/functional-page.png?raw=true)
   
   ## [Credits](#table-of-contents)
   
